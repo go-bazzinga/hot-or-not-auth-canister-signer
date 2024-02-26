@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/hot_or_not_auth_canister_signer_backend"
+]
+resolver = "2"
