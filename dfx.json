@@ -1,8 +1,8 @@
 {
   "canisters": {
-    "hot_or_not_auth_canister_signer_backend": {
-      "candid": "src/hot_or_not_auth_canister_signer_backend/hot_or_not_auth_canister_signer_backend.did",
-      "package": "hot_or_not_auth_canister_signer_backend",
+    "signer": {
+      "candid": "src/signer/signer.did",
+      "package": "signer",
       "type": "rust"
     },
     "internet_identity": {
